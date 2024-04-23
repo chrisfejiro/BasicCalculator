@@ -1,0 +1,10 @@
+C:\Users\HP\Downloads\repos\BackEnd\CalulatorWinForms\CalulatorWinForms\bin\Debug\CalulatorWinForms.exe.config
+C:\Users\HP\Downloads\repos\BackEnd\CalulatorWinForms\CalulatorWinForms\bin\Debug\CalulatorWinForms.exe
+C:\Users\HP\Downloads\repos\BackEnd\CalulatorWinForms\CalulatorWinForms\bin\Debug\CalulatorWinForms.pdb
+C:\Users\HP\Downloads\repos\BackEnd\CalulatorWinForms\CalulatorWinForms\obj\Debug\CalulatorWinForms.csproj.AssemblyReference.cache
+C:\Users\HP\Downloads\repos\BackEnd\CalulatorWinForms\CalulatorWinForms\obj\Debug\CalulatorWinForms.Form1.resources
+C:\Users\HP\Downloads\repos\BackEnd\CalulatorWinForms\CalulatorWinForms\obj\Debug\CalulatorWinForms.Properties.Resources.resources
+C:\Users\HP\Downloads\repos\BackEnd\CalulatorWinForms\CalulatorWinForms\obj\Debug\CalulatorWinForms.csproj.GenerateResource.cache
+C:\Users\HP\Downloads\repos\BackEnd\CalulatorWinForms\CalulatorWinForms\obj\Debug\CalulatorWinForms.csproj.CoreCompileInputs.cache
+C:\Users\HP\Downloads\repos\BackEnd\CalulatorWinForms\CalulatorWinForms\obj\Debug\CalulatorWinForms.exe
+C:\Users\HP\Downloads\repos\BackEnd\CalulatorWinForms\CalulatorWinForms\obj\Debug\CalulatorWinForms.pdb
